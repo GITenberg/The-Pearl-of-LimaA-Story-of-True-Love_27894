@@ -1,0 +1,42 @@
+_repo: The-Pearl-of-LimaA-Story-of-True-Love_27894
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wilbur, Anne T.
+    gutenberg_agent_id: '32999'
+    url: http://www.gutenberg.org/2009/agents/32999
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2009-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dowry -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Lima (Peru) -- Fiction'
+- !lcsh 'Jews -- Fiction'
+title: 'The Pearl of Lima: A Story of True Love'
+url: http://www.gutenberg.org/ebooks/27894
